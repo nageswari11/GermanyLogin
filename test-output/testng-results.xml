@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-11T11:16:27 IST" name="GermanyIsCallingTestSuite" finished-at="2024-09-11T11:16:52 IST" duration-ms="25011">
+    <groups>
+    </groups>
+    <test started-at="2024-09-11T11:16:27 IST" name="LoginTest" finished-at="2024-09-11T11:16:52 IST" duration-ms="25011">
+      <class name="LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:27 IST" name="setUp" finished-at="2024-09-11T11:16:31 IST" duration-ms="3711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithValidCredentials()[pri:1, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:31 IST" name="LoginWithValidCredentials" finished-at="2024-09-11T11:16:31 IST" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:31 IST" name="tearDown" finished-at="2024-09-11T11:16:32 IST" duration-ms="736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:32 IST" name="setUp" finished-at="2024-09-11T11:16:34 IST" duration-ms="1709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithInValidUsernameAndValidPassword()[pri:2, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:34 IST" name="LoginWithInValidUsernameAndValidPassword" finished-at="2024-09-11T11:16:35 IST" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInValidUsernameAndValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:35 IST" name="tearDown" finished-at="2024-09-11T11:16:35 IST" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:35 IST" name="setUp" finished-at="2024-09-11T11:16:37 IST" duration-ms="1347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithValidUsernameAndInValidPassword()[pri:3, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:37 IST" name="LoginWithValidUsernameAndInValidPassword" finished-at="2024-09-11T11:16:38 IST" duration-ms="1516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidUsernameAndInValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:38 IST" name="tearDown" finished-at="2024-09-11T11:16:39 IST" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:39 IST" name="setUp" finished-at="2024-09-11T11:16:40 IST" duration-ms="1061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithInValidUsernameAndInValidPassword()[pri:4, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:40 IST" name="LoginWithInValidUsernameAndInValidPassword" finished-at="2024-09-11T11:16:41 IST" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInValidUsernameAndInValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:41 IST" name="tearDown" finished-at="2024-09-11T11:16:42 IST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:42 IST" name="setUp" finished-at="2024-09-11T11:16:43 IST" duration-ms="1533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithEmptyFieldUsernameAndValidPassword()[pri:5, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:43 IST" name="LoginWithEmptyFieldUsernameAndValidPassword" finished-at="2024-09-11T11:16:44 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithEmptyFieldUsernameAndValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:44 IST" name="tearDown" finished-at="2024-09-11T11:16:44 IST" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:44 IST" name="setUp" finished-at="2024-09-11T11:16:46 IST" duration-ms="1100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithValidUsernameAndEmptyFieldPassword()[pri:6, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:46 IST" name="LoginWithValidUsernameAndEmptyFieldPassword" finished-at="2024-09-11T11:16:46 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidUsernameAndEmptyFieldPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:46 IST" name="tearDown" finished-at="2024-09-11T11:16:47 IST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:47 IST" name="setUp" finished-at="2024-09-11T11:16:48 IST" duration-ms="943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithEmptyUsernameAndPasswordFields()[pri:7, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:48 IST" name="LoginWithEmptyUsernameAndPasswordFields" finished-at="2024-09-11T11:16:48 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithEmptyUsernameAndPasswordFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:48 IST" name="tearDown" finished-at="2024-09-11T11:16:49 IST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:49 IST" name="setUp" finished-at="2024-09-11T11:16:50 IST" duration-ms="1314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithSpecialCharacters()[pri:8, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:50 IST" name="LoginWithSpecialCharacters" finished-at="2024-09-11T11:16:51 IST" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithSpecialCharacters -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTest@306cf3ea]" started-at="2024-09-11T11:16:51 IST" name="tearDown" finished-at="2024-09-11T11:16:52 IST" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- GermanyIsCallingTestSuite -->
+</testng-results>

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GermanyIsCallingTestSuite" parallel="classes" thread-count="2">
+    <test name="LoginTest">
+        <classes>
+            <class name="LoginTest" />
+        </classes>
+    </test>
+</suite>
